@@ -4,7 +4,7 @@
 		"https://blog.stephansama.info"
 	],
 	"originsRegex": [
-		"https://.*madprofessorblog\\.pages\\.dev/.*",
+		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.pages\\.dev(/.*)?",
 		"https://.*madprofessorblog\\.deno\\.dev/.*",
 		"https://.*madprofessorblog\\.netlify\\.app/.*",
 		"https://.*madprofessorblog\\.vercel\\.app/.*",
