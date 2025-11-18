@@ -3,5 +3,11 @@
 	"origins": [
 		"https://blog.stephansama.info"
 	],
-	"originsRegex": []
+	"originsRegex": [
+		"https://*madprofessorblog\\.pages\\.dev/",
+		"https://*madprofessorblog\\.deno\\.dev/",
+		"https://*madprofessorblog\\.netlify\\.app/",
+		"https://*madprofessorblog\\.vercel\\.app/",
+		"http://localhost:2564"
+	]
 }
