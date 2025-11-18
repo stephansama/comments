@@ -4,10 +4,10 @@
 		"https://blog.stephansama.info"
 	],
 	"originsRegex": [
-		"https://.*madprofessorblog\\.pages\\.dev/",
-		"https://.*madprofessorblog\\.deno\\.dev/",
-		"https://.*madprofessorblog\\.netlify\\.app/",
-		"https://.*madprofessorblog\\.vercel\\.app/",
-		"http://localhost:2564"
+		"https://.*madprofessorblog\\.pages\\.dev/.*",
+		"https://.*madprofessorblog\\.deno\\.dev/.*",
+		"https://.*madprofessorblog\\.netlify\\.app/.*",
+		"https://.*madprofessorblog\\.vercel\\.app/.*",
+		"http://localhost:2564/.*"
 	]
 }
