@@ -8,6 +8,6 @@
 		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.deno\\.dev(/.*)?",
 		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.netlify\\.app(/.*)?",
 		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.vercel\\.app(/.*)?",
-		"http://localhost:2564/.*"
+		"http://localhost:2564"
 	]
 }
