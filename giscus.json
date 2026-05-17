@@ -1,12 +1,15 @@
 {
-	"defaultCommentOrder": "newest",
-	"origins": [
-		"https://blog.stephansama.info"
-	],
-	"originsRegex": [
-		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.pages\\.dev(/.*)?",
-		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.deno\\.dev(/.*)?",
-		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.netlify\\.app(/.*)?",
-		"https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.vercel\\.app(/.*)?"
-	]
+  "defaultCommentOrder": "newest",
+  "origins": [
+    "https://blog.stephansama.info",
+    "https://packages.stephansama.info",
+    "https://actions.stephansama.info"
+  ],
+  "originsRegex": [
+    "https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.pages\\.dev(/.*)?",
+    "https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.deno\\.dev(/.*)?",
+    "https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.netlify\\.app(/.*)?",
+    "https://([a-zA-Z0-9-]+\\.)?madprofessorblog\\.vercel\\.app(/.*)?",
+    "https://[a-zA-Z0-9-]+-stephan-randles-projects\\.vercel\\.app(/.*)?"
+  ]
 }
